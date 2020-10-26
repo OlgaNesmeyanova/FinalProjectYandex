@@ -1,0 +1,7 @@
+@import url(__title/search__title.css);
+@import url(__text/search__text.css);
+.search {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
