@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    src: url('./roboto-slab-v12-latin-ext_latin_cyrillic-ext_cyrillic-700.woff2') format('woff2');
+}
