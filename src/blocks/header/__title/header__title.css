@@ -1,11 +1,13 @@
 .header__title {
-    font-family: Roboto Slab;
+    font-family: Roboto Slab, Arial, serif;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
     line-height: 24px;
     color: #FFFFFF;
-    margin-top: 30px;
-    margin-bottom: 26px;
+    box-sizing: border-box;
+    padding-top: 30px;
+    padding-bottom: 26px;
+    margin: 0;
 }
 

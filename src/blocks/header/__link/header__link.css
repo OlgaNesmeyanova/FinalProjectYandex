@@ -1,11 +1,18 @@
 .header__link {
     margin-left: 34px;
     text-decoration: none;
-    color: #FFFFFF;
+    color:#B6BCBF;
     list-style: none;
-    font-family: Roboto;
+    font-family: Roboto, Arial, serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
     line-height: 24px;
+    box-sizing: border-box;
+    padding-top: 30px;
+    padding-bottom: 26px;
+}
+.header__link:focus {
+    color: #FFFFFF;
+    border-bottom: 3px solid #FFFFFF;
 }

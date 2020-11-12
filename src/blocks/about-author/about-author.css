@@ -1,0 +1,12 @@
+@import url(__avatar/about-author__avatar.css);
+@import url(__text-block/about-author__text-block.css);
+@import url(__title/about-author__title.css);
+@import url(__description/about-author__description.css);
+
+.about-author {
+    box-sizing: border-box;
+    padding-left: 7%;
+    padding-right: 7%;
+    width: 100%;
+    display: flex;
+}
