@@ -1,3 +1,6 @@
+@import url(_about/header__link_about.css);
+@import url(_main/header__link_main.css);
+
 .header__link {
     margin-left: 34px;
     text-decoration: none;
@@ -12,7 +15,8 @@
     padding-top: 30px;
     padding-bottom: 26px;
 }
+/*
 .header__link:focus {
     color: #FFFFFF;
     border-bottom: 3px solid #FFFFFF;
-}
+}*/

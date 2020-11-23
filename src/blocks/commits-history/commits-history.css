@@ -1,0 +1,9 @@
+@import url(__header/commits-history__header.css);
+@import url(__heading/commits-history__heading.css);
+@import url(__link/commits-history__link.css);
+.commits-history {
+    display: flex;
+    flex-direction: column;
+    background: #F5F6F7;
+    width: 100%;
+}

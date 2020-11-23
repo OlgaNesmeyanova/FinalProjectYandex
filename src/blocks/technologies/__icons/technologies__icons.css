@@ -1,0 +1,7 @@
+.technologies__icons {
+    display: flex;
+    justify-content: space-between;
+    /*padding-left: 126px;
+    padding-right: 126px;*/
+    box-sizing: border-box;
+}

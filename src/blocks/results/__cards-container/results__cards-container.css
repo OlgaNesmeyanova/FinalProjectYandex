@@ -1,0 +1,12 @@
+.results__cards-container {
+    width: 100%;
+    padding-top: 64px;
+    padding-bottom: 64px;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+    grid-gap: 16px;
+    justify-content: space-between;
+   
+}

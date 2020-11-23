@@ -1,0 +1,20 @@
+@import url(__nothing/results__nothing.css);
+@import url(__sad-icon/results__sad-icon.css);
+@import url(__title/results__title.css);
+@import url(__text/results__text.css);
+@import url(__cards/results__cards.css);
+@import url(__header/results__header.css);
+@import url(__heading/results__heading.css);
+@import url(__analytics-link/results__analytics-link.css);
+@import url(__cards-container/results__cards-container.css);
+@import url(__cards-section/results__cards-section.css);
+@import url(__picture/results__picture.css);
+@import url(__date/results__date.css);
+@import url(__card-title/results__card-title.css);
+@import url(__card-text/results__card-text.css);
+@import url(__source/results__source.css);
+@import url(__more/results__more.css);
+.results {
+    width: 100%;
+    background: #F5F6F7;
+}

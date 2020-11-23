@@ -10,7 +10,10 @@ const isDev = process.env.NODE_ENV === 'development';
 module.exports = {
     context: path.resolve(__dirname, 'src'),
     entry: { main: 
-        ['@babel/polyfill', './JS/index.js']
+        ['@babel/polyfill', './JS/index.js'],
+        about: 
+        ['@babel/polyfill', './JS/about.js'],
+
     },
     output: {
         path: path.resolve(__dirname, 'dist'),
@@ -87,6 +90,13 @@ module.exports = {
             template: './index.html',
             filename: 'index.html'
         }),
+        new HtmlWebpackPlugin({
+            inject: true,
+            template: './about.html',
+            filename: 'about.html'
+        }),
+
+
         new MiniCssExtractPlugin({
             filename: 'style.[contenthash].css'
         }),

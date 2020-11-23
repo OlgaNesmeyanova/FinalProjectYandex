@@ -1,0 +1,8 @@
+.results__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding-top: 80px;
+
+}
