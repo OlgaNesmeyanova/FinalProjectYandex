@@ -1,0 +1,14 @@
+@import url(__title/technologies__title.css);
+@import url(__name/technologies__name.css);
+@import url(__icons/technologies__icons.css);
+@import url(__icon-container/technologies__icon-container.css);
+@import url(__icon/technologies__icon.css);
+.technologies {
+    background: #F5F6F7;
+    box-sizing: border-box;
+    padding-left: 7%;
+    padding-right: 7%;
+    display: flex;
+    min-height: 334px;
+    justify-content: space-between;
+}

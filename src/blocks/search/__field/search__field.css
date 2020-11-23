@@ -1,0 +1,7 @@
+.search__field {
+    width: 100%;
+    position: relative;
+    padding-top: 32px;
+    padding-bottom: 80px;
+    box-sizing: border-box;
+}

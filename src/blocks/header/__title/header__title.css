@@ -1,0 +1,14 @@
+@import url(_about/header__title_about.css);
+.header__title {
+    font-family: Roboto Slab, Arial, serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    padding-top: 30px;
+    padding-bottom: 26px;
+    margin: 0;
+}
+

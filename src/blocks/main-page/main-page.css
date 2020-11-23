@@ -1,0 +1,10 @@
+.main-page {
+    background-image: url(../../images/georgia-de-lotz--UsJoNxLaNo-unsplash.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    /*height: auto;
+    object-fit: cover;*/
+    
+}
